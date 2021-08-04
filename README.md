@@ -16,7 +16,7 @@ Link to source code: https://github.com/RameshMF/springboot-crud-restful-webserv
 Deploy project to AWS
 
 # Steps
-1. Log into AWS Console
+1. Log into AWS Console. (aws.amazon.com)
 2. Set up MySQL/MariaDB database in AWS Cloud using AWS RDS
 3. Connect to MySQL/MariaDB database with MySQL WorkBench to verify the conectivity.
 4. Clone spring boot application source code from GitHub.
